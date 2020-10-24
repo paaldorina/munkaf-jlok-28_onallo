@@ -32,6 +32,12 @@ table{
 table, th, td{
     border: 0;
 }
+th {
+    padding: 1em;
+}
+td {
+    padding: 0.5em;
+}
 
 /* �rlap st�luselemek */
 
