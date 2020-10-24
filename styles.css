@@ -134,3 +134,7 @@ td {
     float: right;
 }
 
+input[type=submit], input[type=reset] {
+    width: 120px;
+    background-color: #ccc;
+}
